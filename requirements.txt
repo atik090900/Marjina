@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+requests
+phonenumbers
+emoji
+openpyxl
+xlrd
+beautifulsoup4
